@@ -1,10 +1,8 @@
 body{
-    margin: 0;
-    font-family: helvetica;
-    line-height: 2;
-    background-image: url(background3.PNG);
-    background-repeat: no-repeat;
-    background-size: cover;
+     background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center center;
+     
 }
 
 
