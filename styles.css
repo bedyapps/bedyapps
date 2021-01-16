@@ -34,8 +34,8 @@ body{
 .img-4{
     border-radius: 25px 25px 25px 25px;
     position: center center;
-    width: 150px;
-    height: 150px;
+    width: 160px;
+    height: 160px;
     
 }
 
@@ -43,20 +43,20 @@ body{
 .button1{
      border-radius: 25px 25px 25px 25px;
     font-size: 25px;
-    width: 170px;
+    width: 180px;
     background-color: turquoise;
     margin-top: 10px;
-    height: 170px;
+    height: 180px;
     margin-bottom: 5;
 }
 .button2{
      border-radius: 25px 25px 25px 25px;
     font-size: 25px;
-    width: 175px;
+    width: 180px;
     background-color: turquoise;
     
     margin-top: 10px;
-    height: 175px;
+    height: 180px;
     margin-bottom: 5;
 }
 
