@@ -2,7 +2,7 @@ body{
     margin: 0;
     font-family: helvetica;
     line-height: 2;
-    background-image: url(background5.PNG);
+    background-image: url(background6.PNG);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -44,17 +44,18 @@ body{
      border-radius: 25px 25px 25px 25px;
     font-size: 25px;
     width: 180px;
-    background-color: turquoise;
+    background-color: deepskyblue;
     margin-top: 10px;
     height: 180px;
     margin-bottom: 5;
+    margin: 10;
 }
 .button2{
      border-radius: 25px 25px 25px 25px;
     font-size: 25px;
     width: 180px;
-    background-color: turquoise;
-    
+    background-color: deepskyblue;
+    margin: 5;
     margin-top: 10px;
     height: 180px;
     margin-bottom: 5;
